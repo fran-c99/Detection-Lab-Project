@@ -23,12 +23,7 @@ This hands-on experience was designed to deepen understanding of system vulnerab
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 - Portmaster as a firewall running NextDNS as the DNS server.
 
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
+## References
 
 *Ref 1: Portmaster*
 
