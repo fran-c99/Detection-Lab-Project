@@ -28,12 +28,7 @@ This hands-on experience was designed to deepen understanding of system vulnerab
 
 ## References
 
-*Ref 1: Portmaster*
-
-![Screenshot from 2025-04-29 02-49-54](https://github.com/user-attachments/assets/0e242573-c2cc-48b6-8851-6042b471e810)
-
-
-*Ref 2: Virtual Machine | Kali Linux AND Windows 11 VM & configuration*
+*Ref 1: Virtual Machine | Kali Linux AND Windows 11 VM & configuration*
 
 ![Screenshot 2025-07-05 at 12 27 34 PM](https://github.com/user-attachments/assets/38853557-61bb-4ab3-a3d5-fd397135e488)
 
