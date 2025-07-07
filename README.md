@@ -4,7 +4,7 @@
 
 The Home Detection Lab project is aimed to establish a controlled environment for: simulating and detecting cyber attacks and enhance privacy, security and control over internet traffic. 
 
-Based on my primary objectives I implemented the Security Information and Event Management (SIEM) tool Splunk in my PC and a cloud-based DNS service. In addition, I setup a Virtual Machine running Windows 11 as the target machine and Kali Linux as the m. Then using wireshark and nmap to have a better understanding of how the information over the internet is working and to be able to check vulnerabilities based on the ports that the system is using.
+Based on my primary objectives I implemented the Security Information and Event Management (SIEM) tool Splunk in my PC and a cloud-based DNS service. In addition, I setup a Virtual Machine running Windows 11 as the target machine and Kali Linux as the attacker machine. Then using wireshark and nmap to have a better understanding of how the information over the internet is working and to be able to check vulnerabilities based on the ports that the system is using.
 
 This hands-on experience was designed to deepen understanding of system vulnerabilities, attack patterns, and defensive strategies as well as a better understanding on network analytics and troubleshooting of different Operating Systems in a Cybersecurity Setting. 
 
